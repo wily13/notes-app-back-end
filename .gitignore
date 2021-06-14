@@ -1,5 +1,4 @@
 node_modules
-build
-npm-debug.log
+notes-api-web-server.pem
 .env
-.DS_Store
+.prod.env
